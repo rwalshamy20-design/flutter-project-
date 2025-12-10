@@ -17,44 +17,6 @@ The idea is to build a simple Flutter-based mobile application that acts as an o
 
 
 
-<img width="1066" height="600" alt="Screenshot 2025-12-10 112042" src="https://github.com/user-attachments/assets/9c4afe91-fb1a-40cb-8176-3dbae96eb4bd" />
-
-
-<img width="1064" height="595" alt="Screenshot 2025-12-10 112105" src="https://github.com/user-attachments/assets/df403673-1685-4052-bdc8-d002a9c35105" />
-
-
-
-<img width="1060" height="596" alt="Screenshot 2025-12-10 112117" src="https://github.com/user-attachments/assets/cd5e3ea8-e621-4959-82ee-14fa625a527d" />
-
-
-
-
-
-<img width="1070" height="601" alt="Screenshot 2025-12-10 112127" src="https://github.com/user-attachments/assets/019e2d00-deaf-464b-98a1-58b951bfe21a" />
-
-
-
-<img width="1060" height="604" alt="Screenshot 2025-12-10 112135" src="https://github.com/user-attachments/assets/d5388813-eb3a-47ac-9e33-9c7701117b9e" />
-
-
-
-<img width="1070" height="591" alt="Screenshot 2025-12-10 112159" src="https://github.com/user-attachments/assets/548a5f79-ef25-4028-8658-31ce61c365e9" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
