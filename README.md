@@ -6,10 +6,10 @@ The idea is to build a simple Flutter-based mobile application that acts as an o
 
 <img width="1076" height="595" alt="Screenshot 2025-12-10 112011" src="https://github.com/user-attachments/assets/b3f3302d-dbf9-4725-a13a-1e1ab8ed5d0f" />
 
+<img width="1066" height="600" alt="3" src="https://github.com/user-attachments/assets/200b72e3-ad74-4b91-892a-d9d6c4b6731c" />
 
 <img width="1062" height="603" alt="Screenshot 2025-12-10 112022" src="https://github.com/user-attachments/assets/46f76af9-6e19-43c0-8a97-143a5b136919" />
 
-<img width="1066" height="600" alt="3" src="https://github.com/user-attachments/assets/200b72e3-ad74-4b91-892a-d9d6c4b6731c" />
 
 
 
