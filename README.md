@@ -13,7 +13,7 @@ The idea is to build a simple Flutter-based mobile application that acts as an o
 
 
 
-<img width="1066" height="601" alt="Screenshot 2025-12-10 112032" src="https://github.com/user-attachments/assets/e730926d-3980-44a4-ac0e-dc0c10bf7615" />
+
 
 
 
